@@ -31,4 +31,5 @@ Pengunjung::reset();
 // 4. Menampilkan hasil SESUDAH di-reset
 echo "Jumlah Pengunjung (Sesudah Reset): " . Pengunjung::$jumlah;
 
-?>
+
+// Versi Before dan After
