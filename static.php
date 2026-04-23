@@ -10,6 +10,7 @@ class Counter {
 
 }
 
+ // counter
 $c1 = new Counter();
 $c2 = new Counter();
 
