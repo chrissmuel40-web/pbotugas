@@ -8,6 +8,7 @@ class Matematika {
 
 }
 
+ // matematika
 echo Matematika::tambah(5, 3);
 
 ?>
