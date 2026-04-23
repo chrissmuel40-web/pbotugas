@@ -8,7 +8,6 @@ final class Database {
 
 }
 
-// ERROR jika dilakukan
 class MyDB extends Database {
 
 }
