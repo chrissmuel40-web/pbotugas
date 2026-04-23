@@ -28,7 +28,6 @@ class Transaksi {
     }
 }
 
-// 1. Buat minimal 3 produk
 $p1 = new Produk("Laptop Asus", 15000000);
 $p1->tambahProduk();
 
