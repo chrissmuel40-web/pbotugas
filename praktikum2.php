@@ -25,7 +25,6 @@ class Matematika {
     }
 }
 
-// Logika untuk menangani input dari Form HTML
 $hasil = "";
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $n1 = $_POST['angka1'];
